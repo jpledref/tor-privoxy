@@ -1,0 +1,3 @@
+#!/bin/sh
+
+dnsmasq --conf-file=/etc/service/dnsmasq/dnsmasq.conf
